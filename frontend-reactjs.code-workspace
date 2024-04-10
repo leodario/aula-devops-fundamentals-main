@@ -1,0 +1,32 @@
+{
+  "folders": [
+	{
+		"path": "D:/RIVVA/frontend-reactjs"
+	},
+	{
+		"path": "../../../../../xampp/htdocs/a01"
+	},
+	{
+		"path": "../../php-oo-dio-pilares-heranca-polimorfismo-contratos/php-oo-dio-pilares-heranca-polimorfismo-contratos/debug"
+	},
+	{
+		"path": "../../php-oo-dio-pilares-heranca-polimorfismo-contratos/php-oo-dio-pilares-heranca-polimorfismo-contratos/src"
+	},
+	{
+		"path": "../../../../../xampp/htdocs/a03ClassesObjetos/php-oo-dio"
+	},
+	{
+		"path": "../../../../../xampp/htdocs/a04PHP_OO_EXPLICADO"
+	},
+	{
+		"path": "../../../../../xampp/htdocs/a05PDO_com_Classe"
+	},
+	{
+		"path": "D:/spdoctor"
+	},
+	{
+		"path": "."
+	}
+],
+  "settings": {}
+}
