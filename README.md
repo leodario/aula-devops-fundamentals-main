@@ -1,6 +1,6 @@
 # Aula DevOps Fundamentals
 
-Projeto da aula DevOps Fundamentals - 2023
+Projeto da aula DevOps Fundamentals - 2024
 
 ## Getting started
 
